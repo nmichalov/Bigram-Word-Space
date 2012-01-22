@@ -1,5 +1,0 @@
-This program is a portion of the code I used for a project on distributional compositional semantics.  The basic idea of distributional semantics is that the meanings of words can be inferred from the context in which they occurr, and therefore a semantic space can be created which represents word meanings as vectors, the dimensionality of which is based on the frequency with which the target word occurs with the words which form the basis elements of the vector space.  My project examined several previously proposed
-methods for combining the meaning of single words in order to predict the compositional meanings of two word phrases.  The code is of course not very flexible or robust,
-but that's because it was designed for a single specific task, namely converting a large corpus into a semantic space.  I chose it however, because it displays my current
-ability as a programmer, and I think that the code itself is fairly well written.  Please note that the fact that it leaves behind all intermediate files is intentional, since
-it might be useful to examine the output of any particular stage in the process.
